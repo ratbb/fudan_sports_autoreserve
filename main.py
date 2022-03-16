@@ -9,7 +9,7 @@ USER_PASSWORD = "fDu100610"
 CAMPUS_NAME = "江湾校区"
 SPORT_NAME = "羽毛球"
 SPORT_LOCATION = "江湾体育馆羽毛球场"
-DATE = "2022-03-16"
+DATE = "2022-03-18"
 TIME = "10:00"
 
 # Optional data
